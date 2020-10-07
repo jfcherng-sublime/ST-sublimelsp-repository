@@ -58,6 +58,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/sublimelsp/LSP-Dart",
+			"name": "LSP-Dart",
+			"releases": [
+				{
+					"sublime_text": ">=4070",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/sublimelsp/LSP-css",
 			"name": "LSP-css",
 			"releases": [
@@ -107,6 +117,16 @@
 				},
 				{
 					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/sublimelsp/LSP-graphql",
+			"name": "LSP-graphql",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -166,11 +186,7 @@
 			"name": "LSP-pyright",
 			"releases": [
 				{
-					"sublime_text": "3154 - 4069",
-					"tags": "st3-"
-				},
-				{
-					"sublime_text": ">=4070",
+					"sublime_text": ">=3154",
 					"tags": true
 				}
 			]
